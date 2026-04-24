@@ -1,5 +1,5 @@
 """
-Risk-Return Analysis of Indian Stocks — Final Year Project
+Risk-Return Analysis of Investments — Final Year Project
 Stocks: TCS · Sun Pharma · Mahindra & Mahindra (M&M)
 Period : April 2016 – April 2026  (10 Years)
 Exchange: NSE (National Stock Exchange of India)
