@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 
 # ── Page Config ──────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Risk–Return Analysis",
+    page_title="Risk–Return Analysis of Investments",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
