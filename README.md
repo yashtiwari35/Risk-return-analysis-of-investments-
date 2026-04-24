@@ -1,4 +1,4 @@
-# 📊 Risk–Return Analysis of Indian Stocks
+# 📊 Risk–Return Analysis of Ivestments
 ## Final Year Project — Data Analytics
 
 ---
