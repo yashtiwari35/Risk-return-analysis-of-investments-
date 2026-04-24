@@ -141,7 +141,7 @@ active_stocks = [(filtered[name], name, col) for _, name, col in stocks if name 
 #  HEADER
 # ════════════════════════════════════════════════════════════════
 st.markdown("# 📊 Risk–Return Analysis of Investments")
-st.markdown("**TCS · Sun Pharma · Mahindra & Mahindra &nbsp;|&nbsp; NSE India &nbsp;|&nbsp; 2016–2026**")
+st.markdown("**TCS · Sun Pharma · Mahindra & Mahindra &nbsp;|&nbsp; Yahoo Finance (NSE-listed companies) &nbsp;|&nbsp; 2016–2026**")
 st.markdown("---")
 
 # ════════════════════════════════════════════════════════════════
