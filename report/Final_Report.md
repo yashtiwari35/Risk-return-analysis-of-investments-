@@ -1,4 +1,4 @@
-# Risk–Return Analysis of Indian Stocks
+# Risk–Return Analysis of Investments 
 ## Final Year Project Report
 
 **Student:** Data Analyst  
