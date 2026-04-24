@@ -1,4 +1,4 @@
-# 📊 Risk–Return Analysis of Ivestments
+# 📊 Risk–Return Analysis of Investments
 ## Final Year Project — Data Analytics
 
 ---
