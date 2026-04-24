@@ -140,7 +140,7 @@ active_stocks = [(filtered[name], name, col) for _, name, col in stocks if name 
 # ════════════════════════════════════════════════════════════════
 #  HEADER
 # ════════════════════════════════════════════════════════════════
-st.markdown("# 📊 Risk–Return Analysis of Indian Stocks")
+st.markdown("# 📊 Risk–Return Analysis of Investments")
 st.markdown("**TCS · Sun Pharma · Mahindra & Mahindra &nbsp;|&nbsp; NSE India &nbsp;|&nbsp; 2016–2026**")
 st.markdown("---")
 
@@ -414,7 +414,7 @@ with tab5:
 st.markdown("---")
 st.markdown(
     "<center style='color:#555;font-size:13px;'>"
-    "📊 Risk–Return Analysis | Final Year Project | NSE India 2016–2026"
+    "📊 Risk–Return Analysis of Investments| Final Year Project | NSE India 2016–2026"
     "</center>",
     unsafe_allow_html=True
 )
