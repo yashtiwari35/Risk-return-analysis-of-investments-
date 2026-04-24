@@ -1,8 +1,6 @@
 """
-╔══════════════════════════════════════════════════════════════════╗
-║    Risk–Return Analysis — Streamlit Dashboard                    ║
-║    Run: streamlit run app.py                                     ║
-╚══════════════════════════════════════════════════════════════════╝
+   Risk–Return Analysis of Investments — Streamlit Dashboard                    
+   Run: streamlit run app.py  
 """
 
 import streamlit as st
